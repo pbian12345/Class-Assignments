@@ -1,0 +1,8 @@
+Files included:
+	List.h - header file for List class
+	List.c - List class containing bidirectional linked list
+	ListClient.c - Testing class for List.c
+	Lex.c - contains main class and goes about inserting contents of input file in a sorted way
+					 in a List, then to an output file
+	Makefile - provided online
+	README - this...
