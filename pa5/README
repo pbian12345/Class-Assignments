@@ -1,0 +1,7 @@
+Files included:
+	Dictionary.h - Header file for Dictionary ADT
+	Dictionary.c - List class containing Dictionary ADT
+	DictionaryTest.c - Testing file for Dictionary ADT
+	Lex.c - Top level client running operations exported from Dictionary
+	Makefile - Provided online
+	README - This...
