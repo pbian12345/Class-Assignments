@@ -1,0 +1,7 @@
+Files included:
+	List.h - Header file for List ADT
+	List.cpp - List class containing List ADT
+	ListTest.cpp - Testing file for List ADT
+	Shuffle.cpp - Top level client running operations exported from List
+	Makefile - Provided online
+	README - This...
